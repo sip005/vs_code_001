@@ -9,6 +9,7 @@
 - Ctrl + b for file browser
 - Ctrl + j for hiding terminal
 - alt + shift + arrow down -> to copy line below
+- CTRL + / -> TO COMMENT AND UNCOMMENT
 
 ### Extensions
 - HTML CSS Support
