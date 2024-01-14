@@ -17,5 +17,5 @@
 - one dark pro (Theme)
 - Tailwind CSS extension
 - Live server
-- Prettier code formater
+- Prettier code formatter
 - 
