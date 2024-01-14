@@ -8,6 +8,7 @@
 - Shift + Alt + DownARROW To copy down after selecting a line
 - Ctrl + b for file browser
 - Ctrl + j for hiding terminal
+- alt + shift + arrow down -> to copy line below
 
 ### Extensions
 - HTML CSS Support
