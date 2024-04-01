@@ -20,4 +20,6 @@
 - Tailwind CSS extension
 - Live server
 - Prettier code formatter
-- 
+- auto rename
+- jinja extension
+- traversy media vs code extensions
